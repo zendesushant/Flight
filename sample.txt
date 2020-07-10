@@ -1,7 +1,6 @@
-exrctvybhjmkgvbnmkjsjnc'
-canijncsajndicjannk
-dsadomalkmljmjdijrhwion
+#include<stdio.h>
 
-This are updated lines
-This are added from Remote Repo
-This is from Branch2
+int main()
+{
+    printf("Hello World")
+}
