@@ -1,0 +1,33 @@
+.container{
+    position:absolute;
+    left:50%;
+    top:200px;
+    transform:translate(-50%,0%);
+  }
+  .t{
+
+    position: absolute;
+    left:150px;
+    padding: 5px;
+  
+  }
+.sub-container{
+    margin-top: 10px;
+    padding: 10px;
+}
+  .btn{
+    height: 34px;
+    width: 175px;
+    background-color: #315788;
+    color: #dfffff;
+    letter-spacing: 2px;
+    font-size: inherit;
+    font-family: cursive;
+    margin-top: 10px;
+      
+  }
+  label{
+    letter-spacing: 2px;
+    color: darkolivegreen;
+  }
+ 
