@@ -2,6 +2,12 @@ body{
 
     background-color: cyan;
 }
+<<<<<<< HEAD
 h1{
     color: red;
+=======
+
+h1{
+    color:red
+>>>>>>> cd5555e35d9a7b51b711fec7acd80ff69005bbe4
 }
